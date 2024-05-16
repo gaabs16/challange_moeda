@@ -4,7 +4,7 @@
 </p>
 
 ## Funcionalidades
-<p>Conversão entre Real Brasileiro (BRL), Dólar Americano (USD), Euro (EUR) e Peso Colombiano (COP).</p>
+<p>Conversão entre Real Brasileiro (BRL), Dólar Americano (USD), Dólar Australiano (AUD), Peso Chileno (CLP), Iene (JPY).</p>
 <p>Interface de usuário intuitiva no console.</p>
 <p>Registro automático de cada conversão em um arquivo de log.</p>
 
